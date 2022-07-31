@@ -26,7 +26,7 @@ Project is created with:
      
 ## Technical drawing
 
-[here](https://github.com/Wafaa-Almadhoun/stick-nodes-design-of-robot-leg-/blob/main/stick%20nodes%20leg%20wafaa%20.stl) 
+To see the full design [here](https://github.com/Wafaa-Almadhoun/stick-nodes-design-of-robot-leg-/blob/main/stick%20nodes%20leg%20wafaa%20.stl) 
 
 
 ![front](https://user-images.githubusercontent.com/64277741/182006833-601ae938-8d14-4ffb-b9b2-cd8434cef0e6.png)
