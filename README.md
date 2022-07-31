@@ -1,4 +1,4 @@
-# stick-nodes-design-of-robot-leg-
+# Stick-nodes-design-of-robot-leg-
 
 ## Table of contents
 * [Introduction](#Introduction)
