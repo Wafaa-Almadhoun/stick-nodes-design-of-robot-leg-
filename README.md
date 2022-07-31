@@ -22,11 +22,15 @@ Project is created with:
 	
 ## Design parameter & Specification
     
- The maximum height of leg from hip to the ground 64 cm
+ The maximum height of  the leg from hip to the ground  is 64 cm
 
      
-## Block diagram & simulation
-### 1. Unipolar Stepper with ULN2003 . [see here](https://github.com/Wafaa-Almadhoun/Stepper-motor-using-Arduino-UNO-R3-/blob/main/stepper%20using%20ULN2003.pdsprj)
+## Technical drawing
 
-![6](https://user-images.githubusercontent.com/64277741/179309329-1eed85e5-3f0d-48a3-b2be-3d9a40e71869.PNG)
-Figure (6): Rotate CCW 1/2 turn quickly
+![front](https://user-images.githubusercontent.com/64277741/182006833-601ae938-8d14-4ffb-b9b2-cd8434cef0e6.png)
+
+Figure (1): From front view of leg 
+
+![left](https://user-images.githubusercontent.com/64277741/182006864-c1794737-02c3-4b16-8e74-467851c9a520.png)
+
+Figure (2): 3D view of leg 
